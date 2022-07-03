@@ -13,7 +13,7 @@ sudo apt install suckless-tools
 ```
 3) Download and install the script
 ```console
-sudo wget -O /usr/local/bin/applaunch "[github link]" && \
+sudo wget -O /usr/local/bin/applaunch "https://raw.githubusercontent.com/bramtechs/linux-applaunch/master/applaunch" && \
 sudo chmod +x /usr/local/bin/applaunch
 ```
 4) (Optional) Add a shortcut to your i3 config.
